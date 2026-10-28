@@ -101,7 +101,7 @@ namespace HelloAutomation
                 string answer = Console.ReadLine();
                 if (answer != "y")
                 {
-                    //running = false;
+                    running = false;
                 }
                 Console.WriteLine();
             }
