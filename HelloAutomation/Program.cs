@@ -15,7 +15,7 @@
             int actualOutput = int.Parse(Console.ReadLine());
 
             Console.Write("NG (pcs): ");
-            int NG = int.Parse(Console.ReadLine());
+            int ngCount = int.Parse(Console.ReadLine());
 
             double achievement = (double)actualOutput / targetOutput * 100;
             double taktTime = shiftHours * 3600 / targetOutput;
