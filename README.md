@@ -1,4 +1,3 @@
-# csharp-automation-journey
 # C# Automation Journey 
 
 Learning C# for industrial automation — from console basics to PLC communication and real-time web dashboards.
